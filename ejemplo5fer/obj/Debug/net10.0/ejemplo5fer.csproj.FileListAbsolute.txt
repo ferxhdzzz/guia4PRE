@@ -1,0 +1,14 @@
+C:\Users\usuario\Desktop\guia 4 fer\ejemplo5fer\bin\Debug\net10.0\ejemplo5fer.exe
+C:\Users\usuario\Desktop\guia 4 fer\ejemplo5fer\bin\Debug\net10.0\ejemplo5fer.deps.json
+C:\Users\usuario\Desktop\guia 4 fer\ejemplo5fer\bin\Debug\net10.0\ejemplo5fer.runtimeconfig.json
+C:\Users\usuario\Desktop\guia 4 fer\ejemplo5fer\bin\Debug\net10.0\ejemplo5fer.dll
+C:\Users\usuario\Desktop\guia 4 fer\ejemplo5fer\bin\Debug\net10.0\ejemplo5fer.pdb
+C:\Users\usuario\Desktop\guia 4 fer\ejemplo5fer\obj\Debug\net10.0\ejemplo5fer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\guia 4 fer\ejemplo5fer\obj\Debug\net10.0\ejemplo5fer.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\guia 4 fer\ejemplo5fer\obj\Debug\net10.0\ejemplo5fer.AssemblyInfo.cs
+C:\Users\usuario\Desktop\guia 4 fer\ejemplo5fer\obj\Debug\net10.0\ejemplo5fer.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\guia 4 fer\ejemplo5fer\obj\Debug\net10.0\ejemplo5fer.dll
+C:\Users\usuario\Desktop\guia 4 fer\ejemplo5fer\obj\Debug\net10.0\refint\ejemplo5fer.dll
+C:\Users\usuario\Desktop\guia 4 fer\ejemplo5fer\obj\Debug\net10.0\ejemplo5fer.pdb
+C:\Users\usuario\Desktop\guia 4 fer\ejemplo5fer\obj\Debug\net10.0\ejemplo5fer.genruntimeconfig.cache
+C:\Users\usuario\Desktop\guia 4 fer\ejemplo5fer\obj\Debug\net10.0\ref\ejemplo5fer.dll
