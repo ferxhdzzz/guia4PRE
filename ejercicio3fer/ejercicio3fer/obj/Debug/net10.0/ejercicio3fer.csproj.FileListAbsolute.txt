@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\guia4PRE\ejercicio3fer\ejercicio3fer\bin\Debug\net10.0\ejercicio3fer.exe
+C:\Users\hp\Desktop\guia4PRE\ejercicio3fer\ejercicio3fer\bin\Debug\net10.0\ejercicio3fer.deps.json
+C:\Users\hp\Desktop\guia4PRE\ejercicio3fer\ejercicio3fer\bin\Debug\net10.0\ejercicio3fer.runtimeconfig.json
+C:\Users\hp\Desktop\guia4PRE\ejercicio3fer\ejercicio3fer\bin\Debug\net10.0\ejercicio3fer.dll
+C:\Users\hp\Desktop\guia4PRE\ejercicio3fer\ejercicio3fer\bin\Debug\net10.0\ejercicio3fer.pdb
+C:\Users\hp\Desktop\guia4PRE\ejercicio3fer\ejercicio3fer\obj\Debug\net10.0\ejercicio3fer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\guia4PRE\ejercicio3fer\ejercicio3fer\obj\Debug\net10.0\ejercicio3fer.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\guia4PRE\ejercicio3fer\ejercicio3fer\obj\Debug\net10.0\ejercicio3fer.AssemblyInfo.cs
+C:\Users\hp\Desktop\guia4PRE\ejercicio3fer\ejercicio3fer\obj\Debug\net10.0\ejercicio3fer.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\guia4PRE\ejercicio3fer\ejercicio3fer\obj\Debug\net10.0\ejercicio3fer.sourcelink.json
+C:\Users\hp\Desktop\guia4PRE\ejercicio3fer\ejercicio3fer\obj\Debug\net10.0\ejercicio3fer.dll
+C:\Users\hp\Desktop\guia4PRE\ejercicio3fer\ejercicio3fer\obj\Debug\net10.0\refint\ejercicio3fer.dll
+C:\Users\hp\Desktop\guia4PRE\ejercicio3fer\ejercicio3fer\obj\Debug\net10.0\ejercicio3fer.pdb
+C:\Users\hp\Desktop\guia4PRE\ejercicio3fer\ejercicio3fer\obj\Debug\net10.0\ejercicio3fer.genruntimeconfig.cache
+C:\Users\hp\Desktop\guia4PRE\ejercicio3fer\ejercicio3fer\obj\Debug\net10.0\ref\ejercicio3fer.dll

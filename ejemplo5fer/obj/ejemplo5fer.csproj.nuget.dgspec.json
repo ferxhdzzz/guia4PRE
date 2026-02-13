@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\usuario\\Desktop\\guia 4 fer\\ejemplo5fer\\ejemplo5fer.csproj": {}
+    "C:\\Users\\hp\\Desktop\\guia4PRE\\ejemplo5fer\\ejemplo5fer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\usuario\\Desktop\\guia 4 fer\\ejemplo5fer\\ejemplo5fer.csproj": {
+    "C:\\Users\\hp\\Desktop\\guia4PRE\\ejemplo5fer\\ejemplo5fer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\usuario\\Desktop\\guia 4 fer\\ejemplo5fer\\ejemplo5fer.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\guia4PRE\\ejemplo5fer\\ejemplo5fer.csproj",
         "projectName": "ejemplo5fer",
-        "projectPath": "C:\\Users\\usuario\\Desktop\\guia 4 fer\\ejemplo5fer\\ejemplo5fer.csproj",
-        "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\usuario\\Desktop\\guia 4 fer\\ejemplo5fer\\obj\\",
+        "projectPath": "C:\\Users\\hp\\Desktop\\guia4PRE\\ejemplo5fer\\ejemplo5fer.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\guia4PRE\\ejemplo5fer\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
